@@ -1,0 +1,2 @@
+strana = { "city": "Moscow","temper":"20"}
+print(product.get("city","temper"))

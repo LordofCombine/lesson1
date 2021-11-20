@@ -1,0 +1,6 @@
+name = input('Введите имя ')
+print('Привет, ' + name + '! Как дела?')
+
+a = 2
+b = int(input('Введите Б '))
+print(a + b + 10)
